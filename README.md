@@ -4,7 +4,7 @@
 
 - 😄 I enjoy being a part of any type of software project, whether developing or contributing in the product design and definition process.
 
-- 🌱 I’m improving my skills in software architecture and back-end engineering.
+- 🌱 Now, I’m improving my skills in software architecture and back-end engineering.
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kochrg&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
