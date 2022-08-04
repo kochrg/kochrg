@@ -1,13 +1,14 @@
-![kochrg-github-top-banner-small2](https://user-images.githubusercontent.com/63313062/182749405-548fc48b-af9d-4303-abf6-58aa1064779f.png)
+![kochrg-github-top-banner-small3](https://user-images.githubusercontent.com/63313062/182836554-962ead7f-3175-455b-9703-788960ee38d5.png)
+
 
 ## :point_right: About me
 <br>
 
-:bowtie: I’m an Information Systems Engineer/Back-end Engineer from Santa Fe, Argentina.
+:bowtie: I’m an information systems engineer / back-end engineer from Santa Fe, Argentina.
 
 :grinning: I enjoy being a part of any type of software project, whether developing or contributing in the product design and definition process.
 
-:seedling: I’m currently learning about software architecture and back-end engineering.
+:seedling: I’m currently improving my knowledge of software architecture and back-end engineering.
 
 
 <!--
