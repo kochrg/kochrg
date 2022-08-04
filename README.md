@@ -1,10 +1,14 @@
-### Hi there 👋
+![kochrg-github-top-banner-small2](https://user-images.githubusercontent.com/63313062/182749405-548fc48b-af9d-4303-abf6-58aa1064779f.png)
 
-- :boy: I’m an Information Systems Engineer/Back-end Engineer.
+## :point_right: About me
+<br>
 
-- 😄 I enjoy being a part of any type of software project, whether developing or contributing in the product design and definition process.
+:bowtie: I’m an Information Systems Engineer/Back-end Engineer from Santa Fe, Argentina.
 
-- 🌱 Now, I’m improving my skills in software architecture and back-end engineering.
+:grinning: I enjoy being a part of any type of software project, whether developing or contributing in the product design and definition process.
+
+:seedling: I’m currently learning about software architecture and back-end engineering.
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kochrg&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
