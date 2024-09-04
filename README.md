@@ -1,11 +1,11 @@
-![kochrg-github-top-banner-small3](https://user-images.githubusercontent.com/63313062/182836554-962ead7f-3175-455b-9703-788960ee38d5.png)
+![kochrg-github-top-banner-small3](https://github.com/user-attachments/assets/3dff215e-0a8e-422e-8ae3-85462c617841)
 
 ## :point_right: About me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kochrg/)
 
 <br>
 
-:bowtie: I’m an information systems engineer / back-end engineer from Santa Fe, Argentina.
+:bowtie: I’m a Software Engineer | Information Systems Engineer from Santa Fe, Argentina.
 
 :grinning: I enjoy being a part of any type of software project, whether developing or contributing in the product design and definition process.
 
