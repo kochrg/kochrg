@@ -49,7 +49,7 @@ These are some of the technologies that I use in my daily work.
 ## :mailbox_with_mail: Stay in touch!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kochrg/)
 
-[:globe_with_meridians: kochrg.com.ar](kochrg.com.ar)
+[:globe_with_meridians: kochrg.com.ar](http://kochrg.com.ar)
 
 [:email: contact@kochrg.com.ar](mailto:contact@kochrg.com.ar)
 
