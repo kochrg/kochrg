@@ -9,7 +9,7 @@
 
 :grinning: I enjoy being a part of any type of software project, whether developing or contributing in the product design and definition process.
 
-:seedling: I’m currently improving my knowledge of software architecture and back-end engineering.
+:seedling: I’m continously improving my knowledge on Software Architectures and Software Engineering.
 
 <br>
 
